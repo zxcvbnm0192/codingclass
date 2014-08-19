@@ -1,4 +1,8 @@
 body {
 	font-size: 0.8em;
 	font-family: arial, sans-serif;
+    color: red;
+}
+strong {
+    color: pink;
 }
