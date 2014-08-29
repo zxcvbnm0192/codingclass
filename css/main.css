@@ -24,3 +24,21 @@
 	color: #FFF;
     text-decoration: underline;
 }
+
+.name {
+	color: #00FFFF;
+}
+
+.watch {
+	color: Red;
+    text-decoration: underline;
+}
+
+.cont li a {
+	color: #CC0066;
+}
+
+.cont li a:hover {
+	color: green;
+    text-decoration: none; 
+}
