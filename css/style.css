@@ -1,22 +1,13 @@
 
-body {
- background-color: purple;
-    padding: 40px;
+.container {
+
+	width: 740px;
+    margin: auto;
+
 }
 
-h1 {
-	color: cyan;
-    font-size: 40;
-}
-
-h3 {
-	color: cyan;
-}
-
-p {
-	color: cyan;
-}
-
-ul {
-	color: cyan;
+.main-header {
+	height: 110px;
+    color: #FFF;
+    background: royalblue;
 }
