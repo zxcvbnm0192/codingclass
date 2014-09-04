@@ -11,3 +11,21 @@
     color: #FFF;
     background: royalblue;
 }
+
+.main-content {
+	padding: 20px;
+	background: lightgray;
+}
+
+.main-footer {
+	height: 100px;
+	color: #FFF;
+	background: #222;
+}
+
+.base {
+	padding: 50px;
+	color: #FFF;
+	text-align: center;
+	font-size: 24px;
+}
