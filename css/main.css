@@ -42,3 +42,17 @@
 	color: green;
     text-decoration: none; 
 }
+
+.hdr {
+	color: #006600;
+	font-size: 13px;
+}
+
+.ftr {
+	color: #800000;
+	font-size: 25px;
+}
+
+.bth {
+	font-weight: bold;
+}

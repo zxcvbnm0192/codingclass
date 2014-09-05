@@ -1,0 +1,13 @@
+
+.main-div {
+	width: 770px;
+	margin: auto;
+}
+.main-header {
+	background: #5050a3;
+	padding: 30px;
+}
+.bigtext {
+	font-size: 20px;
+	color: #FFF;
+}
