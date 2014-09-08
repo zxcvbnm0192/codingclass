@@ -2,6 +2,7 @@
 .main-div {
 	width: 770px;
 	margin: auto;
+
 }
 .main-header {
 	background: #5050a3;
@@ -11,3 +12,15 @@
 	font-size: 20px;
 	color: #FFF;
 }
+
+.left {
+	float:right;
+	width: 500px;
+}
+
+.right {
+
+}
+ .mlp {
+ 	background: 
+ }
