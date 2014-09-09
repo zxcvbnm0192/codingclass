@@ -2,6 +2,8 @@
 .main-div {
 	width: 770px;
 	margin: auto;
+	background: lightgray;
+	padding-bottom: 250px;
 
 }
 .main-header {
@@ -15,12 +17,24 @@
 
 .left {
 	float:right;
-	width: 500px;
+	width: 570px;
+	padding-right: 10px;
 }
 
-.right {
-
+.mlp {
+	background: darkblue;
 }
- .mlp {
- 	background: 
- }
+
+.footer {
+	background: brown;
+	width: 770px;
+	position: absolute;
+	bottom: 320px;
+	height: 40px;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.side-text {
+	padding-left: 25px;
+}
