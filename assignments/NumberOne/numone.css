@@ -1,21 +1,25 @@
 
-.main-div {
+.content {
 	width: 770px;
 	margin: auto;
 	background: lightgray;
-	padding-bottom: 250px;
+	padding-bottom: 120px;
+}
 
+.sidebar nav ul li{
+	list-style: none;
 }
 .main-header {
-	background: #5050a3;
-	padding: 30px;
+	background: #666699;
+	padding: 10px;
+	text-align: center;
 }
 .bigtext {
-	font-size: 20px;
+	font-size: 40px;
 	color: #FFF;
 }
 
-.left {
+.content {
 	float:right;
 	width: 570px;
 	padding-right: 10px;
@@ -28,13 +32,13 @@
 .footer {
 	background: brown;
 	width: 770px;
-	position: absolute;
 	bottom: 320px;
 	height: 40px;
 	text-align: center;
 	padding-top: 15px;
+	margin: auto;
 }
 
-.side-text {
+.sidetext {
 	padding-left: 25px;
 }
