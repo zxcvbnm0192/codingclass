@@ -1,0 +1,48 @@
+.container {
+	width: 960px;
+	margin: 0 auto;
+	background:grey;
+	border: 5px dotted green;
+}
+
+.main-header {
+	height: 100px;
+	background: #990000;
+	padding: 20px;
+}
+
+.main-content {
+	min-height: 500px;
+}
+
+.main-footer {
+	height: 50px;
+	background: #990000;
+}
+
+.main-header .navigation {
+	width:100%;
+}
+
+.main-header .navigation ul {
+	list-style: none;
+	background-color: #FF0066;
+	overflow: hidden;
+}
+
+.main-header .navigation ul li {
+	float: left;
+}
+
+.main-header .navigation ul li a {
+	line-height: 25px;
+	padding: 0 15px;
+	color: white;
+	text-decoration: none;
+}
+
+.main-header .navigation ul li a:hover {
+	background-color: white;
+	color: #990000;
+	text-decoration: underline;
+}
