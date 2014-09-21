@@ -15,7 +15,7 @@
 	padding-top:30px;
 	width:250px;
 	margin-left: 140px;
-	text-shadow: 2px 2px 5px #000000;
+	text-shadow: 2px 2px #000000;
 }
 
 nav ul {
@@ -48,12 +48,10 @@ nav ul li{
 }
 
 .p2 {
-	width: 115px;
+	width: 90px;
 	position: relative;
-	left: 440px;
-	bottom: 415px;
-	background: black;
-	back
+	left: 430px;
+	bottom: 370px;
 }
 nav ul li a {
 	text-decoration: none;
@@ -82,5 +80,4 @@ nav ul li a:hover {
 	position: relative;
 	left: 320px;
 	bottom: 240px;
-	border: black;
 }
