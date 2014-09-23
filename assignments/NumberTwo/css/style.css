@@ -13,7 +13,7 @@
 }
 
 .container {
-	width: 1000px;
+	width: 850px;
 	margin: auto;
 }
 
@@ -42,7 +42,7 @@ nav ul li{
 .maincontent {
 	background: #293529;
 	margin: auto;
-	width: 1000px;	
+	width: 850px;	
 	border-radius: 30px;
 	padding-right: 200px;
 	padding-top:40px;
@@ -56,31 +56,30 @@ nav ul li{
 
 .content {
 	margin: auto;
-
+	width: 850px;
 }
 
-.content p {
-	float: left;
-
-}
-
-.content img {
+.cnt1 {
 	float: left;
 }
 
+.cnt2 {
+	float: left;
+}
+
+.cnt3 {
+	float: left;
+}
 
 .p1 {
 	width: 240px;
 	padding-bottom: 30px;
-	margin-top: -2px;
-
+	margin-bottom: 100px;
 }
 
 .p2 {
 	width: 115px;
-	background: #313131;
-	margin-top: 33px;
-	padding-bottom: 16px; 
+	
 }
 
 .contacts{
@@ -96,11 +95,7 @@ nav ul li{
 }
 
 .p3 {
-	width: 135px;
-	background: #313131;
-	margin-top: 49px;
-	margin-left: 200px;
-	margin-right: -244px;
+	width: 120px;
 }
 nav ul li a {
 	text-decoration: none;
@@ -119,30 +114,26 @@ nav ul li a:hover {
 	padding: 8px 8px;
 }
 
-.img1 {
-	float: right;
-	margin-right: -180px;
-	margin-top: -25px;
-}
+
 
 .img2 {
 	border: 5px solid #313131;
 	margin-left: 80px;
 	margin-top: 33px;
+	border-right: 115px solid #313131;
 
 }
 
 .img3 {
 	border: 5px solid #313131;
-	margin-top: 23px
+	margin-top: 23px;
+	border-right: 100px solid #313131;
 
 }
 
 .name1 {
 	text-shadow: 2.4px 2px 2px black;
 	float: left;
-	margin-left: -230px;
-	margin-top: 130px;
 	width: 40px;
 }
 
