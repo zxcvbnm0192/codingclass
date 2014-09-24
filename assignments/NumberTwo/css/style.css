@@ -2,7 +2,6 @@
 	background: url(../images/Adepta.jpg) no-repeat fixed;
 	background-size: cover;
 	margin: auto;
-	display: block;
 }
 
 
@@ -17,8 +16,15 @@
 	margin: auto;
 }
 
+.container2 {
+	border: 2px solid transparent;
+	margin-right: -200px;
+	padding-right: -200px;
+}
+
+
 .tits{
-	color: gold;
+	color: #FFFF33;
 	padding-top:30px;
 	width:250px;
 	text-shadow: 2px 2px 5px #000000;
@@ -37,6 +43,7 @@ nav ul li{
 	list-style: none;
 	background: #293529;
 	border-radius:15px;
+
 }
 
 .maincontent {
@@ -47,96 +54,256 @@ nav ul li{
 	padding-right: 200px;
 	padding-top:40px;
 	padding-left: 45px;
-	color: gold;
-	text-shadow: 1px 1px 2px purple;
-	padding-bottom: 500px;
+	padding-bottom: 720px;
+	color: #FFFF33;
+	text-shadow: 1px 1px 2px black;
 	margin-bottom: 50px;
 	box-shadow: 0px 0px 20px 3px black;
 }
 
-.content {
-	margin: auto;
-	width: 850px;
-}
-
-.cnt1 {
+.cnt {
 	float: left;
-}
-
-.cnt2 {
-	float: left;
-}
-
-.cnt3 {
-	float: left;
+	width: 180px;
+	border: 2px solid transparent;
+	margin-right: 160px;
+	padding-bottom: 20px;
 }
 
 .p1 {
 	width: 240px;
-	padding-bottom: 30px;
-	margin-bottom: 100px;
+	
 }
 
 .p2 {
 	width: 115px;
-	
+	margin-top: -160px;
+	margin-left: 170px;
+}
+
+.p3 {
+	width: 120px;
+	margin-top: -170px;
+	margin-left: 172px
+
+}
+
+.p4 {
+	width: 140px;
+	margin-top: -160px;
+	margin-left: 98px
+
+}
+
+.p5 {
+	width: 150px;
+	margin-top: -160px;
+	margin-left: 143px
+
+}
+
+.p6 {
+	width: 130px;
+	margin-top: -156px;
+	margin-left: 160px
+
+}
+
+.p7 {
+	width: 120px;
+	margin-top: -160px;
+	margin-left: 108px
+
+}
+
+.p8 {
+	width: 120px;
+	margin-top: -160px;
+	margin-left: 162px
+
+}
+
+.p9 {
+	width: 120px;
+	margin-top: -153px;
+	margin-left: 180px
+
 }
 
 .contacts{
 	float: right;
-	color: gold;
+	color: #FFFF33;
 	text-shadow: 2px 2px 3px black;
 	margin-top: -70px;
 	margin-right: -120px;
 }
 
 .cntct {
-	color: gold;
+	color: #FFFF33;
 }
 
-.p3 {
-	width: 120px;
-}
 nav ul li a {
 	text-decoration: none;
-	color: gold;
-	border-right: 3px solid;
-	border-left: 3px solid; 
+	color: #FFFF33;
+	border-right: 3px solid #FFFF33;
+	border-left: 3px solid #FFFF33; 
 	padding: 8px;
-	background: #1A1A1A;
+	background: #1F1F1F;
 	margin-left: 10px;
-	text-shadow: 2px 2px 3px purple;
+	text-shadow: 2px 2px 3px black;
 
 }
 
 nav ul li a:hover {
-	background: #313131;
+	background: #2A2A2A;
 	padding: 8px 8px;
 }
 
-
+.img1{
+	border: 2px solid;
+	float: right;
+	position: relative;
+	bottom: 30px;
+	left: 180px;
+	border: 2px solid transparent;
+}
 
 .img2 {
-	border: 5px solid #313131;
-	margin-left: 80px;
-	margin-top: 33px;
-	border-right: 115px solid #313131;
-
+	border: 5px solid #202020;
+	margin-top: 55px;
+	border-right: 115px solid #202020;
+	margin-left: 50px;
 }
 
 .img3 {
-	border: 5px solid #313131;
+	border: 5px solid #202020;
 	margin-top: 23px;
-	border-right: 100px solid #313131;
+	border-right: 130px solid #202020;
+	margin-left: 65px
+}
 
+.img4 {
+	border: 5px solid #202020;
+	margin-top: 23px;
+	border-right: 145px solid #202020;
+}
+
+.img5 {
+	border: 5px solid #202020;
+	margin-top: 23px;
+	border-right: 158px solid #202020;
+	margin-left: 40px
+}
+
+.img6 {
+	border: 5px solid #202020;
+	margin-top: 23px;
+	border-right: 145px solid #202020;
+	margin-left: 53px
+}
+
+.img7 {
+	border: 5px solid #202020;
+	margin-top: 23px;
+	border-right: 130px solid #202020;
+}
+
+.img8 {
+	border: 5px solid #202020;
+	margin-top: 23px;
+	border-right: 130px solid #202020;
+	margin-left: 30px
+}
+
+.img9 {
+	margin-top: 23px;
+	margin-left: 58px
 }
 
 .name1 {
 	text-shadow: 2.4px 2px 2px black;
-	float: left;
-	width: 40px;
+	float:left;
+	border: 2px solid transparent;
+	margin-bottom: -100px;
+	position: relative;
+	top: 130px;
+	right: -30px;
+	width: 100px;
 }
 
 .name2 {
 	float: left;
+	border: 2px solid transparent;
+	margin-bottom: -25px;
+	position: relative;
+	top: 150px;
+	right: -40px;
+	text-shadow: 2.4px 2px 2px black;
+}
+
+.name3 {
+	text-shadow: 2.4px 2px 2px black;
+	float:left;
+	border: 2px solid transparent;
+	margin-bottom: -100px;
+	position: relative;
+	top: 120px;
+	right: 10px;
+}
+
+.name4 {
+	text-shadow: 2.4px 2px 2px black;
+	float:left;
+	border: 2px solid transparent;
+	margin-bottom: -100px;
+	position: relative;
+	top: 100px;
+	right: -8px;
+}
+
+.name5 {
+	text-shadow: 2.4px 2px 2px black;
+	float:left;
+	border: 2px solid transparent;
+	margin-bottom: -100px;
+	position: relative;
+	top: 100px;
+	right: -40px;
+	width: 100px;
+}
+
+.name6 {
+	text-shadow: 2.4px 2px 2px black;
+	float:left;
+	border: 2px solid transparent;
+	margin-bottom: -100px;
+	position: relative;
+	top: 100px;
+	right: 10px;
+}
+
+.name7 {
+	text-shadow: 2.4px 2px 2px black;
+	float:left;
+	border: 2px solid transparent;
+	margin-bottom: -100px;
+	position: relative;
+	top: 100px;
+	right: -15px;
+	width: 100px;
+}
+
+.name8 {
+	text-shadow: 2.4px 2px 2px black;
+	float:left;
+	border: 2px solid transparent;
+	margin-bottom: -100px;
+	position: relative;
+	top: 121px;
+	right: -63px;
+	width: 100px;
+	margin-right: -45px;
+}
+
+.link1 {
+	color: #FFFF33;
 }
